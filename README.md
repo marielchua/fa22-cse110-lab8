@@ -1,5 +1,5 @@
 # Lab 8
-Name: Mariel Chua
+Name: Mariel Chua  
 Check Your Understanding Q's
 1) Within a Github action that runs whenever code is pushed. This makes more sense to be practiced more, since
    this way you can just automatically run tests in a way that won't waste time.
