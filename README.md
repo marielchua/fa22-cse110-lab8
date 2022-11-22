@@ -8,4 +8,4 @@ Check Your Understanding Q's
 4) Yes, like above, message length is a basic feature of the application that should be tested for functionality and can be tested in the basic cases of
    surpassing or not surpassing the limit.
 
-[Test screenshots redirect](../fa22-cse110-lab8/screenshots/)
+[Test screenshots redirect](https://github.com/marielchua/fa22-cse110-lab8/tree/main/screenshots)
