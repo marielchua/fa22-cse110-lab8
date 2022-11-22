@@ -1,4 +1,5 @@
 # Lab 8
+Name: Mariel Chua
 Check Your Understanding Q's
 1) Within a Github action that runs whenever code is pushed. This makes more sense to be practiced more, since
    this way you can just automatically run tests in a way that won't waste time.
@@ -7,3 +8,4 @@ Check Your Understanding Q's
 4) Yes, like above, message length is a basic feature of the application that should be tested for functionality and can be tested in the basic cases of
    surpassing or not surpassing the limit.
 
+[Test screenshots redirect](../fa22-cse110-lab8/screenshots/)
